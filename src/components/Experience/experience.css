@@ -1,0 +1,19 @@
+.list li::before {
+  top: 0.15rem;
+  left: 0;
+  position: absolute;
+  content: '';
+  display: inline-block;
+  height: 1.5rem;
+  width: 1.5rem;
+  vertical-align: middle;
+  background-image: url("../../assets/checkmark2.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 0.5rem;
+}
+
+.list li {
+  padding-left: 2.2rem;
+  position: relative;
+}

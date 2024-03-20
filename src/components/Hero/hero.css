@@ -1,0 +1,22 @@
+.gradiant-heading {
+  background: linear-gradient(60deg, #e0e0e0, );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero-container {
+  grid-auto-rows: 1fr;
+  max-height: 90vh;
+}
+
+h1 {
+  font-family: "ProtestStrike";
+}
+
+img {
+  /* -webkit-filter: drop-shadow(1px 1px 0 black) drop-shadow(-1px -1px 0 black);
+  filter: drop-shadow(5px 5px 0 black) drop-shadow(-1px -1px 0 black); */
+  filter: drop-shadow(0px 7px 17px #000000);
+}

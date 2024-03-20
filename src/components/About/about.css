@@ -1,0 +1,24 @@
+.custom-shape-divider-top-1707964689 {
+  position: relative;
+  top: -1px;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1707964689 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 45px;
+}
+
+.custom-shape-divider-top-1707964689 .shape-fill {
+  fill: #2E1E3D;
+}
+
+h2,
+h3 {
+  font-family: "ProtestStrike";
+}
